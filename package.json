@@ -48,7 +48,7 @@
     "@types/yamljs": "^0.2.30",
     "fs-extra": "^7.0.1",
     "git-url-parse": "^11.1.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "ts-essentials": "^2.0.3",
     "yamljs": "^0.3.0"
   },
