@@ -26,7 +26,7 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "dependencies": {
-    "@atomist/automation-client": "1.4.0-master.20190414192617",
+    "@atomist/automation-client": "1.5.1",
     "@atomist/automation-client-ext-dashboard": "1.1.0-master.20190411083753",
     "@atomist/microgrammar": "^1.2.0",
     "@atomist/sdm": "1.5.0-master.20190417073800",
@@ -48,7 +48,7 @@
     "@types/yamljs": "^0.2.30",
     "fs-extra": "^7.0.1",
     "git-url-parse": "^11.1.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "ts-essentials": "^2.0.3",
     "yamljs": "^0.3.0"
   },
