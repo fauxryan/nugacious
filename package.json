@@ -46,7 +46,7 @@
     "@types/git-url-parse": "^9.0.0",
     "@types/yamljs": "^0.2.30",
     "git-url-parse": "^11.1.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "ts-essentials": "^2.0.3",
     "yamljs": "^0.3.0"
   },
